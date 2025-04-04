@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+:root {
+  /* Colours */
+  --color-text: #ffffff;
+  --color-primary: #40f9ff94;
+  --color-secondary: #0C356A;
+  --color-dark: #023d6d;
+  --color-bg: #0C356A;
+
+  /* Fonts */
+  --font-tech: "Share Tech";
+--logo-text: 'Pacifico';
+}

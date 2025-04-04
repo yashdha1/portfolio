@@ -1,0 +1,30 @@
+[
+  {
+    "title": "BlockSure",
+    "imageSrc": "projects/blocksure.png",
+    "description": "This is a Insurance platform, Build Upon Euthereum Blockchain.",
+    "github": "https://github.com/yashdha1/BlockSure.git",
+    "liveLink": "https://github.com/yashdha1/BlockSure.git"
+  },
+  {
+    "title": "Bazzar",
+    "imageSrc": "projects/bazzar.png",
+    "description": "E commerce website build using MERN andd integrated stripe secure payments.",
+    "github": "https://github.com/yashdha1/bazzar.git",
+    "liveLink": "https://github.com/yashdha1/bazzar.git"
+  },
+  {
+    "title": "Chatty!",
+    "imageSrc": "projects/chatty.png",
+    "description": "A MERN chat application ith features including real-time messaging, group chats, and photo sharing. [INCOMPLETE]",
+    "github": "https://github.com/yashdha1/chatty.git",
+    "liveLink": "https://github.com/yashdha1/chatty.git"
+  },
+  {
+    "title": "BlindAid",
+    "imageSrc": "projects/blindaid.png",
+    "description": "Blind Aid project to aid the visually impaired people using YOLOv8 model.",
+    "github": "https://github.com/yashdha1/BlindAid.git",
+    "liveLink": "https://github.com/yashdha1/BlindAid.git"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "category": "Programming Languages",
+    "skills": [
+      {
+        "title": "Java",
+        "imageSrc": "skills/java.png",
+        "url": "https://dev.java/"
+      },
+      {
+        "title": "C",
+        "imageSrc": "skills/c.png",
+        "url": "https://devdocs.io/c/"
+      },
+      {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png",
+        "url": "https://cplusplus.com/"
+      },
+      {
+        "title": "Python",
+        "imageSrc": "skills/python.png",
+        "url": "https://www.python.org/"
+      },
+      {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      },
+      {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png",
+        "url": "https://www.w3schools.com/sql/"
+      },
+      {
+        "title": "Solidity",
+        "imageSrc": "skills/solidity.png",
+        "url": "https://soliditylang.org/"
+      }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "skills": [
+      {
+        "title": "HTML",
+        "imageSrc": "skills/html.png",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+      },
+      {
+        "title": "CSS",
+        "imageSrc": "skills/css.png",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+      },
+      {
+        "title": "Tailwind CSS",
+        "imageSrc": "skills/tailwind.svg",
+        "url": "https://tailwindcss.com/"
+      },
+      {
+        "title": "React.js",
+        "imageSrc": "skills/react.png",
+        "url": "https://react.dev/"
+      }
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      {
+        "title": "Node.js",
+        "imageSrc": "skills/nodejs.png",
+        "url": "https://nodejs.org/"
+      },
+      {
+        "title": "Express.js",
+        "imageSrc": "skills/express.png",
+        "url": "https://expressjs.com/"
+      },
+      {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongo.png",
+        "url": "https://www.mongodb.com/"
+      },
+      {
+        "title": "MySQL",
+        "imageSrc": "skills/sql.png",
+        "url": "https://www.mysql.com/"
+      },
+      {
+        "title": "Redis",
+        "imageSrc": "skills/redis.png",
+        "url": "https://redis.io/"
+      }
+    ]
+  },
+  {
+    "category": "Developer Tools",
+    "skills": [
+      {
+        "title": "Git",
+        "imageSrc": "skills/git.png",
+        "url": "https://git-scm.com/"
+      },
+      {
+        "title": "VS Code",
+        "imageSrc": "skills/vscode.png",
+        "url": "https://code.visualstudio.com/"
+      },
+      {
+        "title": "JetBrains",
+        "imageSrc": "skills/jetbrains.png",
+        "url": "https://www.jetbrains.com/"
+      },
+      {
+        "title": "MetaMask",
+        "imageSrc": "skills/metamask.png",
+        "url": "https://metamask.io/"
+      },
+      {
+        "title": "Ganache",
+        "imageSrc": "skills/ganache.png",
+        "url": "https://trufflesuite.com/ganache/"
+      },
+      {
+        "title": "AWS",
+        "imageSrc": "skills/aws.png",
+        "url": "https://aws.amazon.com/"
+      },
+      {
+        "title": "Power BI",
+        "imageSrc": "skills/powerbi.png",
+        "url": "https://powerbi.microsoft.com/"
+      },
+      {
+        "title": "Tableau",
+        "imageSrc": "skills/tableu.png",
+        "url": "https://www.tableau.com/"
+      }
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "skills": [
+      {
+        "title": "PyTorch",
+        "imageSrc": "skills/pytorch.png",
+        "url": "https://pytorch.org/"
+      },
+      {
+        "title": "Scikit-Learn",
+        "imageSrc": "skills/sklearn.png",
+        "url": "https://scikit-learn.org/"
+      },
+      {
+        "title": "Pandas",
+        "imageSrc": "skills/pandas.png",
+        "url": "https://pandas.pydata.org/"
+      },
+      {
+        "title": "Seaborn",
+        "imageSrc": "skills/seaborn.png",
+        "url": "https://seaborn.pydata.org/"
+      },
+      {
+        "title": "OpenCV",
+        "imageSrc": "skills/opencv.png",
+        "url": "https://opencv.org/"
+      },
+      {
+        "title": "HuggingFace",
+        "imageSrc": "skills/hugging.png",
+        "url": "http://huggingface.co/"
+      }
+    ]
+  }
+]

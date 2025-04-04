@@ -1,0 +1,28 @@
+/* logo font */
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@500;600;700;900&display=swap");
+/*akshar font*/
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@400;500;600;700&display=swap");
+/*asap font*/
+@import url("https://fonts.googleapis.com/css2?family=Asap:wght@500;600&display=swap");
+/*Andada Pro*/
+@import url("https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*scorlling effect*/
+@keyframes scrolling {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@layer utilities {
+  .animate-scroll {
+    animation: scrolling 30s linear infinite;
+  }
+}
